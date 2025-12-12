@@ -11,8 +11,11 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.14",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "dom": "^0.0.3",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^7.10.1",
+    "router": "^2.2.0",
     "tailwindcss": "^4.0.14"
   },
   "devDependencies": {
