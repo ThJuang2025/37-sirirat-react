@@ -5,7 +5,7 @@ export default function AdminView() {
 return (
     <div className="p-20">
       <h1 className="text-center text-4xl font-bold">Generation Thailand</h1>
-      <h1 className="text-center text-4xl font-bold">Home - Adminstrator View</h1>
+      <h1 className="text-center text-4xl font-bold">Home - Administrator View</h1>
 
       <div className="flex justify-center gap-10 my-8">
         <ViewToggleButton to="/user" label="User Home View" />
