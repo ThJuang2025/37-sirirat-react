@@ -9,7 +9,7 @@ return (
 
       <div className="flex justify-center gap-10 my-8">
         <ViewToggleButton to="/user" label="User Home View" />
-        <ViewToggleButton to="/admin" label="Admin Home View" />
+        <ViewToggleButton to="/admin" label="🛠️Admin Home View" />
       </div>
     </div>
   );
